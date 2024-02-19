@@ -1,279 +1,331 @@
-<p align="center">
-    <img src="https://site.gitscrum.com/img/gitscrum-mockup-whitelabel-3.png" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44f767a868747de14112582ad4ecd0f6e9c446e6c8f5bc637764e82df8ffa0c0/68747470733a2f2f736974652e676974736372756d2e636f6d2f696d672f676974736372756d2d6d6f636b75702d77686974656c6162656c2d332e706e67"><img src="https://camo.githubusercontent.com/44f767a868747de14112582ad4ecd0f6e9c446e6c8f5bc637764e82df8ffa0c0/68747470733a2f2f736974652e676974736372756d2e636f6d2f696d672f676974736372756d2d6d6f636b75702d77686974656c6162656c2d332e706e67" data-canonical-src="https://site.gitscrum.com/img/gitscrum-mockup-whitelabel-3.png" style="max-width: 100%;"></a>
 </p>
-
-# What is GitScrum?
-
-**GitScrum is a Project Management Tool**, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
-
-It’s a powerful and functional tool you can use to organize your projects and manage your team's tasks within workspaces.
-
-GitScrum brings all important features for you to establish high standard objectives and lead your team to reach them, working in an interactive and collaborative way. It facilitates tasks delegation and monitoring, with visual resources that help you guide your team throughout all projects execution, from start to finish.
-
-Get rid of the outdated confusing methods that mixed dozens of isolated apps, files, emails and physical sticky notes and switch communication madness by an effective working project management tool that’s “all in one” with everything you need - GitScrum Board with dynamic Kanban boards, GitScrum Sprints to associate your tasks to milestones, GitScrum Gantt Charts for an agenda view, slick integrations and many more interactive features.
-
-GitScrum is a way better option to manage your tasks, because not only will you take notes on your pending actions, but you’ll turn them into objectives and accomplish them.
-
-Promote collaboration among team members, partners, clients and stakeholders working together in all project stages to develop innovative solutions. Create discussions, comment on each other's actions, recall attention by mentioning each other’s names.
-
-Improve your products and services with GitScrum User Stories - small reports on end-users’ needs and wishes, applying the agile principles of welcoming changes and delivering value constantly.
-
-Make GitScrum yours, choosing your preference among 23 languages, dozens of project templates and, the best: with the possibility to showcase YOUR BRAND and domain with the GitScrum White Label feature.
-
-Is that all? No! GitScrum helps you turn your team members into Superstars, with the power of gamification. Meet the GitScrum Rock Star Team feature to add joy and healthy competitiveness to your work environment.
-
-Our team of Scrum and Agile specialists have developed the ultimate tool for you to create amazing projects, manage your tasks smartly, lead your team to enthusiasm and reach unprecedented results.
-
-**Skyrocket your productivity with GitScrum!**
-
-
-
-Site: <b>https://site.gitscrum.com</b>
-
-Learm more about GitScrum and Agile Methodologies : <b>https://magazine.gitscrum.com</b>
-
+<h1 tabindex="-1" dir="auto"><a id="user-content-what-is-gitscrum" class="anchor" aria-hidden="true" tabindex="-1" href="#what-is-gitscrum"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是 GitScrum？</font></font></h1>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitScrum 是一个项目管理工具</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，旨在帮助企业家、自由职业者、经理和团队通过敏捷方法和游戏化提高生产力。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是一个强大且实用的工具，您可以使用它来组织项目并管理工作区中团队的任务。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitScrum 为您提供了所有重要功能，可帮助您建立高标准目标并带领您的团队以交互和协作的方式实现这些目标。它有助于任务委派和监控，并提供可视化资源，帮助您指导团队从开始到结束的整个项目执行过程。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">摆脱混合了数十个独立应用程序、文件、电子邮件和物理便签的过时的令人困惑的方法，并通过一个有效的工作项目管理工具来切换疯狂的沟通，该工具“一体化”，包含您需要的一切 - GitScrum 板与动态看板， GitScrum Sprints 将您的任务与里程碑关联起来，GitScrum 甘特图用于议程视图，灵活的集成和更多交互功能。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitScrum 是管理任务的更好选择，因为您不仅会记录待处理的操作，而且会将它们转化为目标并完成它们。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">促进团队成员、合作伙伴、客户和利益相关者之间的协作，在项目的所有阶段共同开发创新解决方案。发起讨论，评论彼此的行为，通过提及彼此的名字来引起注意。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 GitScrum 用户故事改进您的产品和服务 - 关于最终用户需求和愿望的小报告，应用欢迎变化和不断交付价值的敏捷原则。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">让 GitScrum 成为您的，在 23 种语言、数十个项目模板中选择您的偏好，并且最好的是：可以通过 GitScrum 白标功能展示您的品牌和域。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这就是全部？不！ GitScrum 借助游戏化的力量，帮助您将团队成员变成超级明星。了解 GitScrum 摇滚明星团队功能，为您的工作环境增添欢乐和健康的竞争力。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的 Scrum 和敏捷专家团队开发了终极工具，帮助您创建令人惊叹的项目、巧妙地管理您的任务、带领您的团队充满热情并取得前所未有的成果。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 GitScrum 大幅提升您的工作效率！</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站：https: </font></font><b><a href="https://site.gitscrum.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//site.gitscrum.com</font></font></a></b></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关 GitScrum 和敏捷方法论的更多信息： https: </font></font><b><a href="https://magazine.gitscrum.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//magazine.gitscrum.com</font></font></a></b></p>
 <hr>
-<p align="center">
-<b><a href="#overview">Overview</a></b>
+<p align="center" dir="auto">
+<b><a href="#overview"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 |
-<b><a href="#installation">Installation</a></b>
+</font></font><b><a href="#installation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 |
-<b><a href="#setup">Setup</a></b>
+</font></font><b><a href="#setup"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 |
-<b><a href="#screens">Screens</a></b>
+</font></font><b><a href="#screens"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">屏幕</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 |
-<b><a href="#questions-and-issues">Questions and Issues</a></b>
+</font></font><b><a href="#questions-and-issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">疑问和问题</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 |
-<b><a href="#contributing">Contributing</a></b>
+</font></font><b><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 |
-<b><a href="#license">License</a></b>
+</font></font><b><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></b>
 </p>
-
-[![Laravel 5.4](https://img.shields.io/badge/Laravel-5.4-brightgreen.svg?style=flat-square)](http://laravel.com)
-[![Total Downloads](http://poser.pugx.org/gitscrum-ce/laravel-gitscrum/downloads)](https://packagist.org/packages/gitscrum-ce/laravel-gitscrum)
-[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/GitScrum-Community/laravel-gitscrum/blob/master/LICENSE.md)
-
+<p dir="auto"><a href="http://laravel.com" rel="nofollow"><img src="https://camo.githubusercontent.com/db7877de65fd404d609fcd111e2135c1718937086a6e92b2c26aee05465042d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d352e342d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" alt="拉拉维尔 5.4" data-canonical-src="https://img.shields.io/badge/Laravel-5.4-brightgreen.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://packagist.org/packages/gitscrum-ce/laravel-gitscrum" rel="nofollow"><img src="https://camo.githubusercontent.com/ac1c319a393cd4d099e1ab661c3390cc6263545d6a0f0121c0bfbc6af4344a5f/687474703a2f2f706f7365722e707567782e6f72672f676974736372756d2d63652f6c61726176656c2d676974736372756d2f646f776e6c6f616473" alt="总下载量" data-canonical-src="http://poser.pugx.org/gitscrum-ce/laravel-gitscrum/downloads" style="max-width: 100%;"></a>
+<a href="https://github.com/GitScrum-Community/laravel-gitscrum/blob/master/LICENSE.md"><img src="https://camo.githubusercontent.com/3b300eea25ad9fa2cb77c49607b926568f549ec89140bd6b9a190f013846eebf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" alt="执照" data-canonical-src="http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" style="max-width: 100%;"></a></p>
 <hr>
-
-<p align="center"> GitScrum's goal is to "Transform your IT Team into Instant Rock Stars" !!!</p>
-<br/>
-<b>Facebook Group: https://www.facebook.com/groups/gitscrum/ </b>
-<br />
-<b>Follow us on Twitter: https://twitter.com/gitscrum </b>
-</p>
-
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitScrum 的目标是“将您的 IT 团队转变为即时摇滚明星”！！！</font></font></p>
+<br>
+<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Facebook 群组： https: </font></font><a href="https://www.facebook.com/groups/gitscrum/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//www.facebook.com/groups/gitscrum/</font></font></a> </b>
+<br>
+<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Twitter 上关注我们： https: </font></font><a href="https://twitter.com/gitscrum" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//twitter.com/gitscrum</font></font></a> </b>
+<p dir="auto"></p>
 <hr>
-
-## Overview
-
-This version available here is the first code of the GitScrum application developed in 2016 and supported until 2017.
-
-It's a free and open source version, if you want to know the current GitScrum, go to our website [ https://site.gitscrum.com ]
-
-### GitScrum Open Source - Features
-
-GitScrum can be integrated with **Github** or **Gitlab** or **Bitbucket**.
-
-- **Product Backlog** contains the Product Owner's assessment of business value
-
-- **User Story** is a description consisting of one or more sentences in the everyday or business language that captures what a user does or needs to do as part of his or her job function.
-
-	**Features**: Acceptance criteria, prioritization using MoSCoW, definition of done checklist, pie chart, assign labels, team members, activities, comments and issues.
-
-- **Sprint Backlog** is the property of the development team and all included estimates are provided by development team. Often an accompanying sprint planning is the board used to see and change state of the issues.
-
-	**Features**: Sprint planning using Kanban board, burndown chart, definition of done checklist, effort, attachments, activities, comments and issues.
-
-- **Issue** is added in user story to one sprint backlog, or directly in sprint backlog. Generally, each issue should be small enough to be easily completed within a single day.
-
-	**Features**: Progress state (e.g. to do, in progress, done or archived), issue type (e.g. Improvement, Support Request, Feedback, Customer Problem, UX, Infrastructure, Testing Task, etc...), definition of done checklist, assign labels, effort, attachments, comments, activities, team members.
-
-![GitScrum Dashboard](https://i.imgur.com/xFFSha7.png)
-
-![GitScrum Board](https://i.imgur.com/ppiYPMK.png)
-
-![GitScrum Sprint](https://i.imgur.com/ZHrhKPy.png)
-
-## GitScrum Open Source - Installation
-
-The requirements to Laravel GitScrum application is:
-
-- **PHP - Supported Versions**: >= 7.1
-- **Webserver**: Nginx or Apache
-- **Database**: MySQL, or Maria DB
-
-[**Use Docker** - Containers: php7, nginx and mysql57](https://github.com/renatomarinho/Docker-GitScrum)
-
-### Composer Package
-
-```
-$ composer create-project gitscrum-community-edition/laravel-gitscrum --stability=stable --keep-vcs
+<h2 tabindex="-1" dir="auto"><a id="user-content-overview" class="anchor" aria-hidden="true" tabindex="-1" href="#overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处提供的此版本是 2016 年开发的 GitScrum 应用程序的第一个代码，并支持到 2017 年。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是一个免费开源版本，如果您想了解当前的 GitScrum，请访问我们的网站 [ </font></font><a href="https://site.gitscrum.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://site.gitscrum.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-gitscrum-open-source---features" class="anchor" aria-hidden="true" tabindex="-1" href="#gitscrum-open-source---features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitScrum 开源 - 功能</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitScrum 可以与Github</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gitlab</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bitbucket</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集成</font><font style="vertical-align: inherit;">。</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">产品待办事项列表</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含产品负责人对业务价值的评估</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户故事</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一种由日常或商业语言中的一个或多个句子组成的描述，它捕获用户在其工作职能中所做或需要做的事情。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特点</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：验收标准、使用 MoSCoW 确定优先级、完成清单的定义、饼图、分配标签、团队成员、活动、评论和问题。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sprint Backlog</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是开发团队的财产，所有包含的估算均由开发团队提供。通常，伴随的冲刺计划是用于查看和更改问题状态的委员会。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特点</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使用看板、燃尽图、已完成清单的定义、工作量、附件、活动、评论和问题进行冲刺计划。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在用户故事中添加到一个冲刺待办事项列表中，或直接添加到冲刺待办事项列表中。一般来说，每个问题都应该足够小，以便在一天内轻松完成。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：进度状态（例如待办事项、进行中、已完成或已归档）、问题类型（例如改进、支持请求、反馈、客户问题、用户体验、基础设施、测试任务等）、完成清单的定义、分配标签、努力、附件、评论、活动、团队成员。</font></font></p>
+</li>
+</ul>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fb627a266218d1811d9a44fb93d4375ab3918c7170ee80a95e78286f692cfea/68747470733a2f2f692e696d6775722e636f6d2f784646536861372e706e67"><img src="https://camo.githubusercontent.com/0fb627a266218d1811d9a44fb93d4375ab3918c7170ee80a95e78286f692cfea/68747470733a2f2f692e696d6775722e636f6d2f784646536861372e706e67" alt="GitScrum 仪表板" data-canonical-src="https://i.imgur.com/xFFSha7.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a170ed52b0c688b0a6f7ba15bc599ad95db04f22d51e88eb4347b85b7ab9ceb6/68747470733a2f2f692e696d6775722e636f6d2f70706959504d4b2e706e67"><img src="https://camo.githubusercontent.com/a170ed52b0c688b0a6f7ba15bc599ad95db04f22d51e88eb4347b85b7ab9ceb6/68747470733a2f2f692e696d6775722e636f6d2f70706959504d4b2e706e67" alt="GitScrum 板" data-canonical-src="https://i.imgur.com/ppiYPMK.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b7fc00d9ad6f08cf39a0f7a076c0f517f69299eb86dbcb74eceb8e20734db51/68747470733a2f2f692e696d6775722e636f6d2f5a4872684b50792e706e67"><img src="https://camo.githubusercontent.com/3b7fc00d9ad6f08cf39a0f7a076c0f517f69299eb86dbcb74eceb8e20734db51/68747470733a2f2f692e696d6775722e636f6d2f5a4872684b50792e706e67" alt="GitScrum 冲刺" data-canonical-src="https://i.imgur.com/ZHrhKPy.png" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-gitscrum-open-source---installation" class="anchor" aria-hidden="true" tabindex="-1" href="#gitscrum-open-source---installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitScrum 开源 - 安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel GitScrum 应用程序的要求是：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP - 支持的版本</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：&gt;= 7.1</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络服务器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Nginx 或 Apache</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：MySQL 或 Maria DB</font></font></li>
+</ul>
+<p dir="auto"><a href="https://github.com/renatomarinho/Docker-GitScrum"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Docker</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 容器：php7、nginx 和 mysql57</font></font></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-composer-package" class="anchor" aria-hidden="true" tabindex="-1" href="#composer-package"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作曲家包</font></font></h3>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>$ composer create-project gitscrum-community-edition/laravel-gitscrum --stability=stable --keep-vcs
 $ cd laravel-gitscrum
-```
-**Important**: If you have not yet installed composer: [Installation - Linux / Unix / OSX](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
-
-
-### Git Clone
-
-```
-$ git clone git@github.com:GitScrum-Community/laravel-gitscrum.git
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ composer create-project gitscrum-community-edition/laravel-gitscrum --stability=stable --keep-vcs
+$ cd laravel-gitscrum" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重要提示</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：如果您尚未安装 Composer：</font></font><a href="https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 - Linux / Unix / OSX</font></font></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-git-clone" class="anchor" aria-hidden="true" tabindex="-1" href="#git-clone"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克隆</font></font></h3>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>$ git clone git@github.com:GitScrum-Community/laravel-gitscrum.git
 $ cd laravel-gitscrum
 $ composer update
 $ composer run-script post-root-package-install
-```
-
-
-## Setup
-
-**Important**: If you have not the .env file in root folder, you must copy or rename the .env.example to .env
-
-#### Application URL
-
-.env file
-
-```
-APP_URL=http://yourdomain.tld (you must use protocol http or https)
-```
-
-#### Language
-
-Options: en | zh | zh_cn | ru | de | es | pt | it | id | fr | hu
-
-.env file
-
-```
-APP_LANG=en
-```
-Can you help us translate a few phrases into different languages? See: https://github.com/GitScrum-Community/laravel-gitscrum/tree/feature/language-pack/resources/lang
-
-
-#### Database
-
-.env file
-
-```
-
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ git clone git@github.com:GitScrum-Community/laravel-gitscrum.git
+$ cd laravel-gitscrum
+$ composer update
+$ composer run-script post-root-package-install" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-setup" class="anchor" aria-hidden="true" tabindex="-1" href="#setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置</font></font></h2>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重要提示</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：如果根文件夹中没有 .env 文件，则必须将 .env.example 复制或重命名为 .env</font></font></p>
+<h4 tabindex="-1" dir="auto"><a id="user-content-application-url" class="anchor" aria-hidden="true" tabindex="-1" href="#application-url"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">申请网址</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>APP_URL=http://yourdomain.tld (you must use protocol http or https)
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="APP_URL=http://yourdomain.tld (you must use protocol http or https)" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-language" class="anchor" aria-hidden="true" tabindex="-1" href="#language"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选项：en | zh | zh_cn |茹 |德 | es |点 |它|编号 |法国 |胡</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>APP_LANG=en
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="APP_LANG=en" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您能帮我们将一些短语翻译成不同的语言吗？请参阅： https: </font></font><a href="https://github.com/GitScrum-Community/laravel-gitscrum/tree/feature/language-pack/resources/lang"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/GitScrum-Community/laravel-gitscrum/tree/feature/language-pack/resources/lang</font></font></a></p>
+<h4 tabindex="-1" dir="auto"><a id="user-content-database" class="anchor" aria-hidden="true" tabindex="-1" href="#database"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>
 DB_CONNECTION=mysql
 DB_HOST=XXXXXX
 DB_PORT=3306
 DB_DATABASE=XXXXX
 DB_USERNAME=XXXX
 DB_PASSWORD=XXXXX
-```
-
-**Remember**: Create the database for GitScrum before run artisan command.
-
-```
-php artisan migrate
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="
+DB_CONNECTION=mysql
+DB_HOST=XXXXXX
+DB_PORT=3306
+DB_DATABASE=XXXXX
+DB_USERNAME=XXXX
+DB_PASSWORD=XXXXX" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请记住</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：在运行 artisan 命令之前为 GitScrum 创建数据库。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>php artisan migrate
 php artisan db:seed --class=SettingSeeder
-```
-
-#### Github
-
-You must create a new Github App, visit [GitHub's New OAuth Application page](https://github.com/settings/applications/new), fill out the form, and grab your Client ID and Secret.
-
-```
-Application name: gitscrum
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="php artisan migrate
+php artisan db:seed --class=SettingSeeder" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-github" class="anchor" aria-hidden="true" tabindex="-1" href="#github"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">吉图布</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您必须创建一个新的 Github 应用程序，访问</font></font><a href="https://github.com/settings/applications/new"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 的新 OAuth 应用程序页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，填写表格，并获取您的客户端 ID 和密钥。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>Application name: gitscrum
 Homepage URL: URL (Same as APP_URL at .env)
 Application description: gitscrum
 Authorization callback URL: http://{URL is the SAME APP_URL}/auth/provider/github/callback
-```
-
-.env file
-
-```
-GITHUB_CLIENT_ID=XXXXX
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Application name: gitscrum
+Homepage URL: URL (Same as APP_URL at .env)
+Application description: gitscrum
+Authorization callback URL: http://{URL is the SAME APP_URL}/auth/provider/github/callback" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>GITHUB_CLIENT_ID=XXXXX
 GITHUB_CLIENT_SECRET=XXXXXXXXXXXXXXXXXX
-```
-
-#### Gitlab
-
-You must create a new Gitlab App, visit [Gitlab new application](https://gitlab.com/profile/applications), fill out the form, and grab your Application ID and Secret.
-
-```
-name: gitscrum
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="GITHUB_CLIENT_ID=XXXXX
+GITHUB_CLIENT_SECRET=XXXXXXXXXXXXXXXXXX" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-gitlab" class="anchor" aria-hidden="true" tabindex="-1" href="#gitlab"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitLab</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您必须创建一个新的 Gitlab 应用程序，访问</font></font><a href="https://gitlab.com/profile/applications" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gitlab 新应用程序</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，填写表格，并获取您的应用程序 ID 和 Secret。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>name: gitscrum
 Redirect URI: http://{URL is the SAME APP_URL}/auth/provider/gitlab/callback
 Scopes: api and read_user
-```
-
-.env file
-
-```
-GITLAB_KEY=XXXXX -> Application Id
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="name: gitscrum
+Redirect URI: http://{URL is the SAME APP_URL}/auth/provider/gitlab/callback
+Scopes: api and read_user" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>GITLAB_KEY=XXXXX -&gt; Application Id
 GITLAB_SECRET=XXXXXXXXXXXXXXXXXX
 GITLAB_INSTANCE_URI=https://gitlab.com/
-```
-
-#### Bitbucket
-
-You must create a new Bitbucket OAuth Consumer, visit [Bitbucket new consumer guide](https://confluence.atlassian.com/bitbucket/integrate-another-application-through-oauth-372605388.html), and make sure you give write permissions when creating the consumer specially on (repositories , issues)
-
-```
-name: gitscrum
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="GITLAB_KEY=XXXXX -> Application Id
+GITLAB_SECRET=XXXXXXXXXXXXXXXXXX
+GITLAB_INSTANCE_URI=https://gitlab.com/" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-bitbucket" class="anchor" aria-hidden="true" tabindex="-1" href="#bitbucket"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">位桶</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您必须创建一个新的 Bitbucket OAuth Consumer，访问</font></font><a href="https://confluence.atlassian.com/bitbucket/integrate-another-application-through-oauth-372605388.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bitbucket 新消费者指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并确保在专门创建消费者时授予写入权限（存储库、问题）</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>name: gitscrum
 Callback URL: http://{URL is the SAME APP_URL}/auth/provider/bitbucket/callback
 URL: http://{URL is the SAME APP_URL}
 Uncheck (This is a private consumer)
-```
-
-.env file
-
-```
-BITBUCKET_CLIENT_ID=XXXXX -> Bitbucket Key
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="name: gitscrum
+Callback URL: http://{URL is the SAME APP_URL}/auth/provider/bitbucket/callback
+URL: http://{URL is the SAME APP_URL}
+Uncheck (This is a private consumer)" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>BITBUCKET_CLIENT_ID=XXXXX -&gt; Bitbucket Key
 BITBUCKET_CLIENT_SECRET=XXXXXXXXXXXXXXXXXX Bitbucket Secret
-```
-
-#### Proxy
-
-.env file
-
-```
-PROXY_PORT=
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="BITBUCKET_CLIENT_ID=XXXXX -> Bitbucket Key
+BITBUCKET_CLIENT_SECRET=XXXXXXXXXXXXXXXXXX Bitbucket Secret" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-proxy" class="anchor" aria-hidden="true" tabindex="-1" href="#proxy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理人</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>PROXY_PORT=
 PROXY_METHOD=
 PROXY_SERVER=
 PROXY_USER=
 PROXY_PASS=
-```
-
-
-## Screens
-
-![Screenshot 0](http://i.imgur.com/jejT8hY.png)
-![Screenshot 0](http://i.imgur.com/apcFdv0.png)
-![Screenshot 0](http://i.imgur.com/TRzRIpU.png)
-![Screenshot 0](http://i.imgur.com/VcpRaNk.png)
-![Screenshot 0](http://i.imgur.com/8uMYCLv.png)
-![Screenshot 0](http://i.imgur.com/rIwkn7i.png)
-![Screenshot 0](http://i.imgur.com/D954dbU.png)
-
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="PROXY_PORT=
+PROXY_METHOD=
+PROXY_SERVER=
+PROXY_USER=
+PROXY_PASS=" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-screens" class="anchor" aria-hidden="true" tabindex="-1" href="#screens"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">屏幕</font></font></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/03a3d3681cb527ac58786e7f6b46c694ca650c46f6ac43d87cb1fe991b73aa9c/687474703a2f2f692e696d6775722e636f6d2f6a656a543868592e706e67"><img src="https://camo.githubusercontent.com/03a3d3681cb527ac58786e7f6b46c694ca650c46f6ac43d87cb1fe991b73aa9c/687474703a2f2f692e696d6775722e636f6d2f6a656a543868592e706e67" alt="截图 0" data-canonical-src="http://i.imgur.com/jejT8hY.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a23b81b74f72fafa610c8591020892932559efa53642845efdf25552f4c91903/687474703a2f2f692e696d6775722e636f6d2f617063466476302e706e67"><img src="https://camo.githubusercontent.com/a23b81b74f72fafa610c8591020892932559efa53642845efdf25552f4c91903/687474703a2f2f692e696d6775722e636f6d2f617063466476302e706e67" alt="截图 0" data-canonical-src="http://i.imgur.com/apcFdv0.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90bc4b20ef6dbfe74077fcc0c89c0bc5942ea287ce8ba0837d4b31c185875e15/687474703a2f2f692e696d6775722e636f6d2f54527a524970552e706e67"><img src="https://camo.githubusercontent.com/90bc4b20ef6dbfe74077fcc0c89c0bc5942ea287ce8ba0837d4b31c185875e15/687474703a2f2f692e696d6775722e636f6d2f54527a524970552e706e67" alt="截图 0" data-canonical-src="http://i.imgur.com/TRzRIpU.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6abccd6285392efd4ec02b12ef56f8394c0b2f8ac301f0e603036351f7d178e/687474703a2f2f692e696d6775722e636f6d2f56637052614e6b2e706e67"><img src="https://camo.githubusercontent.com/e6abccd6285392efd4ec02b12ef56f8394c0b2f8ac301f0e603036351f7d178e/687474703a2f2f692e696d6775722e636f6d2f56637052614e6b2e706e67" alt="截图 0" data-canonical-src="http://i.imgur.com/VcpRaNk.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1bbd773cdda02ab0c7950d4afd56bdb7521330411dfef57775b6c19a02fc4566/687474703a2f2f692e696d6775722e636f6d2f38754d59434c762e706e67"><img src="https://camo.githubusercontent.com/1bbd773cdda02ab0c7950d4afd56bdb7521330411dfef57775b6c19a02fc4566/687474703a2f2f692e696d6775722e636f6d2f38754d59434c762e706e67" alt="截图 0" data-canonical-src="http://i.imgur.com/8uMYCLv.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0958f5c8dcdca7e0a6d042cc76139e9cf2dc7812eb278aa80560445468e054a/687474703a2f2f692e696d6775722e636f6d2f7249776b6e37692e706e67"><img src="https://camo.githubusercontent.com/c0958f5c8dcdca7e0a6d042cc76139e9cf2dc7812eb278aa80560445468e054a/687474703a2f2f692e696d6775722e636f6d2f7249776b6e37692e706e67" alt="截图 0" data-canonical-src="http://i.imgur.com/rIwkn7i.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a8af7d6c0060ad1f8deadcc4cfe63902ba409893338184c854bcaaa6c61051d/687474703a2f2f692e696d6775722e636f6d2f443935346462552e706e67"><img src="https://camo.githubusercontent.com/4a8af7d6c0060ad1f8deadcc4cfe63902ba409893338184c854bcaaa6c61051d/687474703a2f2f692e696d6775722e636f6d2f443935346462552e706e67" alt="截图 0" data-canonical-src="http://i.imgur.com/D954dbU.png" style="max-width: 100%;"></a></p>
 <br>
-
-## Database schema 
-
-![Screenshot 1](http://i.imgur.com/zdrEkkf.png)
-
+<h2 tabindex="-1" dir="auto"><a id="user-content-database-schema" class="anchor" aria-hidden="true" tabindex="-1" href="#database-schema"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库架构</font></font></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c8d9365fb8785f8f6ebb0d18a63bba9a995397a3706d55a12e2412ef70bd8bd/687474703a2f2f692e696d6775722e636f6d2f7a6472456b6b662e706e67"><img src="https://camo.githubusercontent.com/8c8d9365fb8785f8f6ebb0d18a63bba9a995397a3706d55a12e2412ef70bd8bd/687474703a2f2f692e696d6775722e636f6d2f7a6472456b6b662e706e67" alt="截图1" data-canonical-src="http://i.imgur.com/zdrEkkf.png" style="max-width: 100%;"></a></p>
 <br>
-
-### Do you need help?
-
-Renato Marinho: [Facebook](https://www.facebook.com/renato.marinho) / [LinkedIn](https://pt.linkedin.com/in/renatomarinho13) / Skype: renatomarinho13
-
-
-## Contributing
-
-Contributions are always welcome! https://github.com/GitScrum-Community/laravel-gitscrum/graphs/contributors
-
-
-## License
-
-Laravel GitScrum is licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-
-## Thanks
-
-#### Translate Team : [@orionlu0916](https://github.com/orionlu0916) , [@Bebbolus](https://github.com/Bebbolus) , [@dongm2ez](https://github.com/dongm2ez), [@rizalio](https://github.com/rizalio), [@ddmler](https://github.com/ddmler), [@Assada](https://github.com/Assada), [@edbizarro](https://github.com/edbizarro), [@ngabor84](https://github.com/ngabor84), [@MarwanMohamed](https://github.com/MarwanMohamed) and Manuel Ortega
-
-- [Laravel PHP Framework](https://github.com/laravel/laravel)
-
-- [Chart.js](https://github.com/chartjs/Chart.js)
-
-- [Date Range Picker for Bootstrap](https://github.com/dangrossman/bootstrap-daterangepicker)
+<h3 tabindex="-1" dir="auto"><a id="user-content-do-you-need-help" class="anchor" aria-hidden="true" tabindex="-1" href="#do-you-need-help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你需要帮助吗？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">雷纳托·马里尼奥：</font></font><a href="https://www.facebook.com/renato.marinho" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Facebook</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> / </font></font><a href="https://pt.linkedin.com/in/renatomarinho13" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LinkedIn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> / Skype：renatomarinho13</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">随时欢迎您的贡献！</font></font><a href="https://github.com/GitScrum-Community/laravel-gitscrum/graphs/contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/GitScrum-Community/laravel-gitscrum/graphs/contributors</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel GitScrum 根据</font></font><a href="https://opensource.org/licenses/MIT" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获得许可。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-thanks" class="anchor" aria-hidden="true" tabindex="-1" href="#thanks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谢谢</font></font></h2>
+<h4 tabindex="-1" dir="auto"><a id="user-content-translate-team--orionlu0916--bebbolus--dongm2ez-rizalio-ddmler-assada-edbizarro-ngabor84-marwanmohamed-and-manuel-ortega" class="anchor" aria-hidden="true" tabindex="-1" href="#translate-team--orionlu0916--bebbolus--dongm2ez-rizalio-ddmler-assada-edbizarro-ngabor84-marwanmohamed-and-manuel-ortega"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译团队：</font></font><a href="https://github.com/orionlu0916"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@orionlu0916</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/Bebbolus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@Bebbolus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/dongm2ez"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@dongm2ez</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/rizalio"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> rizalio 、</font></font><a href="https://github.com/ddmler"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@ddmler</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/Assada"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@Assada</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/edbizarro"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@edbizarro</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/ngabor84"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@ngabor84</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/MarwanMohamed"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@MarwanMohamed</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和 Manuel Ortega</font></font></h4>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://github.com/laravel/laravel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel PHP 框架</font></font></a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/chartjs/Chart.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chart.js</font></font></a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/dangrossman/bootstrap-daterangepicker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bootstrap 的日期范围选择器</font></font></a></p>
+</li>
+</ul>
+</article></div>
